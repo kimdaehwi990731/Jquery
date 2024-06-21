@@ -1,0 +1,11 @@
+# jQuery 요약
+
+## 소개
+jQuery는 자바스크립트 라이브러리로, HTML 문서 탐색, 이벤트 처리, 애니메이션, Ajax 상호작용을 단순화하고 크로스 브라우저 호환성을 제공하는 데 중점을 둡니다.
+
+## 기본 사용법
+
+### 포함하기
+CDN을 통해 jQuery를 포함할 수 있습니다:
+```html
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
